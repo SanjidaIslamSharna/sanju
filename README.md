@@ -1,6 +1,6 @@
 ### Hi there 👋, Passionate Developer & Problem Solver
 #### Transforming Ideas into Reality with Code
-![Transforming Ideas into Reality with Code](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 “Hi, I'm Sanjida! A passionate developer with a love for problem-solving. I work with Python, Java, and C++ to build efficient, scalable, and robust solutions. I am always eager to explore new technologies and take on challenging projects. Let’s build something amazing together.
 
